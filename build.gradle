@@ -2,7 +2,7 @@ apply plugin: 'groovy'
 apply plugin: 'maven'
 
 sourceCompatibility = 1.7
-group = 'com.layer'
+group='com.github.mapyo'
 apply from: "$rootDir/version.gradle"
 
 repositories {
